@@ -12,6 +12,7 @@ object Student extends App {
     }
 
 
+
      val st = new Students("student1",0,0)
      st.greet("student2")
      val studentsList = List(
