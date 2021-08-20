@@ -11,6 +11,7 @@ object Student extends App {
       def sortOldestToYoungest(stds: List[Students]): Unit = println(stds.sortBy (x => x.age))
     }
 
+
      val st = new Students("student1",0,0)
      st.greet("student2")
      val studentsList = List(
