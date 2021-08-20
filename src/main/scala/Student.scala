@@ -29,4 +29,5 @@ object Student extends App {
     st.bestStudents(studentsList)
     st.topStudent(studentsList)
     st.sortOldestToYoungest(studentsList)
+
 }
