@@ -1,6 +1,6 @@
 import java.util.Date
 
-object basic extends App {
+object BasicScalaSyntax extends App {
   // IF expression
   val aCondition = true
   val aConditionedValue = if (aCondition) 5 else 3 // IF EXPRESSION
